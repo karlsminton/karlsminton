@@ -1,6 +1,7 @@
 # Karl Minton
 
 I treat the browser more like a runtime than a UI layer.
+
 Most of what I work on sits somewhere between “this is a bad idea” and “this actually works surprisingly well”.
 
 ---
