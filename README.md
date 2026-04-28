@@ -29,15 +29,15 @@ Right now I’m focused on:
 A few things that give a better idea of what I actually build:
 
 - **rooms**  
-  An application demonstrating multiple WebRTC peer connections by streaming webcam feeds — exploring real-time shared state and interaction in the browser  
+  An application demonstrating multiple WebRTC peer connections by streaming webcam feeds; exploring real-time shared state and interaction in the browser  
   → https://github.com/karlsminton/rooms  
 
 - **WebGPU**  
-  Early experiments with GPU programming in the browser — learning rendering from the ground up  
+  Early experiments with GPU programming in the browser; learning rendering from the ground up  
   → https://github.com/karlsminton/WebGPU  
 
 - **tar**  
-  A low-level take on handling archive formats — focused on understanding the structure rather than abstracting it away  
+  A low-level take on handling archive formats; focused on understanding the structure rather than abstracting it away  
   → https://github.com/karlsminton/tar  
 
 Most of my repos follow a similar pattern: build something from scratch, keep abstractions minimal, and see how far it can be pushed.
